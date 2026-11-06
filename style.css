@@ -3,13 +3,13 @@
 ============================== */
 :root {
     color-scheme: dark;
-    --bg: #0d1423;
-    --kartu: #172238;
-    --teks: #edf2ff;
-    --redup: #9aa8c0;
-    --garis: #344158;
-    --aksen: #1764d8;
-    --hapus: #ff7777;
+    --bg: #211923;
+    --kartu: #352536;
+    --teks: #fff0f5;
+    --redup: #d4b7c5;
+    --garis: #604555;
+    --aksen: #d879a5;
+    --hapus: #ff8297;
 }
 
 * {
@@ -175,7 +175,7 @@ button:disabled {
 .pita {
     height: 94px;
     flex: 0 0 94px;
-    background: #7c3aed;
+    background: #e9a6c4;
 }
 
 .isi {
@@ -269,7 +269,7 @@ button:disabled {
     font-weight: 700;
 }
 
-.btn-edit { color: #79aaff; }
+.btn-edit { color: #f5a6ca; }
 
 .btn-hapus {
     color: var(--hapus);
