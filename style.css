@@ -175,7 +175,8 @@ button:disabled {
 .pita {
     height: 94px;
     flex: 0 0 94px;
-    background: #e9a6c4;
+    background: #e9a6c4 !important;
+}
 }
 
 .isi {
